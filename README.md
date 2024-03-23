@@ -1,3 +1,20 @@
+
+
+peer Review: Ashur: the page has only cards, but the text, icons, posistions doesnt match the design given; also the dark mode was not implemented 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
