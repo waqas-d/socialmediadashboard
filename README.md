@@ -1,16 +1,9 @@
-
+Waqas Dad
+Data: 03/22/2024
+Exercise name: Social Media Dashboard
+Description: With the assets given to you remake the following project Social Media Dashboard
 
 peer Review: Ashur: the page has only cards, but the text, icons, posistions doesnt match the design given; also the dark mode was not implemented 
-
-
-
-
-
-
-
-
-
-
 
 
 
